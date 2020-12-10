@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov 13 11:10:56 2020
-
-@author: jwlem
 """
 
 from numpy import argmax
