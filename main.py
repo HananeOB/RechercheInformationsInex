@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 13 11:10:56 2020
 
-@author: 	Hanane OBLOUHOU
+@author: 	        Hanane OBLOUHOU
 			Jérémy LEMÉE
 			William LIM
 			Yana SOARES DE PAULA
